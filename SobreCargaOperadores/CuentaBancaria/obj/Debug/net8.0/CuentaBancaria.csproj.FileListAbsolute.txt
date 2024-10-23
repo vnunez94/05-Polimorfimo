@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\CuentaBancaria\obj\Debug\net8.0\CuentaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\CuentaBancaria\obj\Debug\net8.0\CuentaBancaria.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\CuentaBancaria\obj\Debug\net8.0\CuentaBancaria.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\CuentaBancaria\obj\Debug\net8.0\CuentaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\CuentaBancaria\bin\Debug\net8.0\CuentaBancaria.exe
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\CuentaBancaria\bin\Debug\net8.0\CuentaBancaria.deps.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\CuentaBancaria\bin\Debug\net8.0\CuentaBancaria.runtimeconfig.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\CuentaBancaria\bin\Debug\net8.0\CuentaBancaria.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\CuentaBancaria\bin\Debug\net8.0\CuentaBancaria.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\CuentaBancaria\obj\Debug\net8.0\CuentaBancaria.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\CuentaBancaria\obj\Debug\net8.0\refint\CuentaBancaria.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\CuentaBancaria\obj\Debug\net8.0\CuentaBancaria.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\CuentaBancaria\obj\Debug\net8.0\CuentaBancaria.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\CuentaBancaria\obj\Debug\net8.0\ref\CuentaBancaria.dll

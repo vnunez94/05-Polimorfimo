@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\SobreCargaOperadores\MatrizCuadrada\bin\Debug\net8.0\MatrizCuadrada.exe
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\SobreCargaOperadores\MatrizCuadrada\bin\Debug\net8.0\MatrizCuadrada.deps.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\SobreCargaOperadores\MatrizCuadrada\bin\Debug\net8.0\MatrizCuadrada.runtimeconfig.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\SobreCargaOperadores\MatrizCuadrada\bin\Debug\net8.0\MatrizCuadrada.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\SobreCargaOperadores\MatrizCuadrada\bin\Debug\net8.0\MatrizCuadrada.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\SobreCargaOperadores\MatrizCuadrada\obj\Debug\net8.0\MatrizCuadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\SobreCargaOperadores\MatrizCuadrada\obj\Debug\net8.0\MatrizCuadrada.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\SobreCargaOperadores\MatrizCuadrada\obj\Debug\net8.0\MatrizCuadrada.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\SobreCargaOperadores\MatrizCuadrada\obj\Debug\net8.0\MatrizCuadrada.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\SobreCargaOperadores\MatrizCuadrada\obj\Debug\net8.0\MatrizCuadrada.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\SobreCargaOperadores\MatrizCuadrada\obj\Debug\net8.0\refint\MatrizCuadrada.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\SobreCargaOperadores\MatrizCuadrada\obj\Debug\net8.0\MatrizCuadrada.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\SobreCargaOperadores\MatrizCuadrada\obj\Debug\net8.0\MatrizCuadrada.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\SobreCargaOperadores\MatrizCuadrada\obj\Debug\net8.0\ref\MatrizCuadrada.dll

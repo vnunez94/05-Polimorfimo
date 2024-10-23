@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\Voladores\obj\Debug\net8.0\Voladores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\Voladores\obj\Debug\net8.0\Voladores.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\Voladores\obj\Debug\net8.0\Voladores.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\Voladores\obj\Debug\net8.0\Voladores.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\Voladores\bin\Debug\net8.0\Voladores.exe
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\Voladores\bin\Debug\net8.0\Voladores.deps.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\Voladores\bin\Debug\net8.0\Voladores.runtimeconfig.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\Voladores\bin\Debug\net8.0\Voladores.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\Voladores\bin\Debug\net8.0\Voladores.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\Voladores\obj\Debug\net8.0\Voladores.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\Voladores\obj\Debug\net8.0\refint\Voladores.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\Voladores\obj\Debug\net8.0\Voladores.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\Voladores\obj\Debug\net8.0\Voladores.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\Voladores\obj\Debug\net8.0\ref\Voladores.dll

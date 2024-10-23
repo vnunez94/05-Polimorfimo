@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\SobreCargaMetodo\obj\Debug\net8.0\SobreCargaMetodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\SobreCargaMetodo\obj\Debug\net8.0\SobreCargaMetodo.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\SobreCargaMetodo\obj\Debug\net8.0\SobreCargaMetodo.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\SobreCargaMetodo\obj\Debug\net8.0\SobreCargaMetodo.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\SobreCargaMetodo\bin\Debug\net8.0\SobreCargaMetodo.exe
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\SobreCargaMetodo\bin\Debug\net8.0\SobreCargaMetodo.deps.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\SobreCargaMetodo\bin\Debug\net8.0\SobreCargaMetodo.runtimeconfig.json
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\SobreCargaMetodo\bin\Debug\net8.0\SobreCargaMetodo.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\SobreCargaMetodo\bin\Debug\net8.0\SobreCargaMetodo.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\SobreCargaMetodo\obj\Debug\net8.0\SobreCargaMetodo.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\SobreCargaMetodo\obj\Debug\net8.0\refint\SobreCargaMetodo.dll
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\SobreCargaMetodo\obj\Debug\net8.0\SobreCargaMetodo.pdb
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\SobreCargaMetodo\obj\Debug\net8.0\SobreCargaMetodo.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Escritorio\Dev\INF512\05-Polimorfimo\Polimorfismo\SobreCargaMetodo\obj\Debug\net8.0\ref\SobreCargaMetodo.dll
